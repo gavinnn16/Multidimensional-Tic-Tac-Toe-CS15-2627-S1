@@ -52,4 +52,3 @@ print("Winner:", determine_winner(grid_3))
 display_grid(grid_3)
 print("Winner:", determine_winner(grid_4))
 display_grid(grid_4)
-
