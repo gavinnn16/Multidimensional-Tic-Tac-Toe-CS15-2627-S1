@@ -44,8 +44,6 @@ def determine_winner(grid):
         if " " in row:
             return None
     return "Tie"
-
-
 print("Winner:", determine_winner(grid_1))
 display_grid(grid_1)
 print("Winner:", determine_winner(grid_2))
